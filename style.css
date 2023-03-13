@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(117, 54, 255);
+    background-size: cover;
+    background-position: center;
+    background-size: 3554px 1999px; /* Größe in Pixeln */
+  }
+
+
+
+
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+  
+  }
+  
+  #top {
+      text-align: center;
+      padding: 0px;
+  }
+  
+  #logo-name {
+      font-size: 32px;
+      font-weight: bold;
+      margin: 16px;
+  }
+
+  #navigation a {
+      color: rgb(220, 198, 52);
+      padding: 8px;
+  }
+
+  #navigation a:hover {
+      color: rgb(10, 99, 155);
+  }
+
+  #image img {
+    width: 100%;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+
+  #about-us {
+    width: 350px;
+    margin: auto;
+  }
+
+
+  #main {
+    max-width: 800px;
+    margin: auto;
+    padding: 16px;
+  }
+
+
+  #footer {
+    text-align: center;
+    color: rgb(69, 68, 68);
+    padding: 30px;
+  }
+
+
+
+
+
+  img {
+    margin-top:30px; /* Hier kannst du den Abstand in Pixeln anpassen */
+  }
+
+  #oben {
+    text-align: center;
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
