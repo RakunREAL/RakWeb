@@ -1,5 +1,5 @@
 body {
-    background-image: url("Yaay.jpg");
+    background-color: rgb(146, 109, 255);
     background-size: cover;
     background-position: center;
     background-size: 3554px 1999px; /* Größe in Pixeln */
@@ -56,7 +56,7 @@ body {
 
   #footer {
     text-align: center;
-    color: gray;
+    color: rgb(68, 68, 68);
     padding: 30px;
   }
 
@@ -72,11 +72,4 @@ body {
     text-align: center;
     padding: 0px;
 }
-
-
-
-
-
-
-
 
